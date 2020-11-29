@@ -4,7 +4,6 @@
 2. Xác định yêu cầu nghiệp vụ :
 - Actor thủ thư : 
 	+ Đăng nhập 
-	+ Thanh lí  			(Hoàng Ân)
 	+ Nhập sách 			(Hoàng Ân)
     + Lập phiếu nhập sách   (Hoàng Ân)
 	+ Thống kê kho sách 	(Hoàng Ân)
